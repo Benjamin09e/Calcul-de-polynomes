@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1644872840 source:c:\users\admin\desktop\c\td\tp3bis\fonctions.c
+	"fonctions.h"
+
+1644853151 c:\users\admin\desktop\c\td\tp3bis\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+
